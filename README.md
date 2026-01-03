@@ -54,7 +54,7 @@ All backend services are provisioned and managed through **AWS Amplify**, enabli
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](./architecture-diagram.png)
+<img width="1607" height="731" alt="OTWXtfp3SRGIlQrsM0x6_A0" src="https://github.com/user-attachments/assets/9cbb23da-10c2-409d-af8e-5730ea60b070" />
 
 ---
 
@@ -66,8 +66,39 @@ All backend services are provisioned and managed through **AWS Amplify**, enabli
 - **API Layer:** AWS AppSync (GraphQL)
 - **Database:** DynamoDB
 - **File Storage:** Amazon S3
-
 ---
+
+Here are the image badge links for your tech stack:
+Frontend:
+
+React: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+Vite: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+
+Backend & Deployment:
+
+AWS Amplify: https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white
+
+Authentication:
+
+Amazon Cognito: https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white
+
+API Layer:
+
+AWS AppSync: https://img.shields.io/badge/AWS_AppSync-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
+GraphQL: https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+
+Database:
+
+DynamoDB: https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white
+
+File Storage:
+
+Amazon S3: https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white
+
+You can use these in markdown as:
+markdown![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)Claude is AI and can make mistakes. Please double-check responses. Sonnet 4.5
+
+
 
 ## 🚀 Key Features
 
