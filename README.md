@@ -77,6 +77,10 @@ All backend services are provisioned and managed through **AWS Amplify**, enabli
 - Serverless, scalable backend
 - Fully managed hosting and CI/CD via Amplify
 
+<img width="792" height="823" alt="Picture1" src="https://github.com/user-attachments/assets/929fa62e-1b39-4363-83dd-7e7dc0bc85fc" />
+
+<img width="1867" height="963" alt="OQ36OmuTnSueIqtTZVuY_o1" src="https://github.com/user-attachments/assets/9709d2fd-5fa9-4c6e-bbe5-f8adf9b51720" />
+
 ---
 
 ## 🧩 Why This Project
